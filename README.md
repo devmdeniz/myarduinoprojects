@@ -1,2 +1,8 @@
-# myarduinoprojects
-I put the projects I made with arduino here
+# distancewithservo.ino
+If the distance is less than 5, move the servo motor 180 degrees and restore it.
+
+Libraries:
+Servo
+NewPing
+
+---
